@@ -1,6 +1,6 @@
 
-# R script for "The Average and Variable Thermal Environment Delays 
-#               and Extends Critical Reproductive Behaviors in Scaled and Bobwhite Quail"
+# R script for "The Average and Variable Thermal Environment Delays and Extends Critical Reproductive Behaviors in Scaled and Bobwhite Quail"
+# Requires updates as of 10/31/23
 
 # Authors: William Kirkpatrick*, Rachel Carroll, Craig Davis, Sam Fuhlendorf, Erin Sauer, Sarah DuRant
 # *primary contact
