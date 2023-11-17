@@ -1,7 +1,6 @@
 
 
-# R script for "Critical reproductive behaviors in Scaled Quail and Northern Bobwhite 
-#               are affected by thermal variability and mean temperature"
+# R script for "Critical reproductive behaviors in Scaled Quail and Northern Bobwhite are affected by thermal variability and mean temperature"
 
 # Authors: William Kirkpatrick*, Rachel Carroll, Craig Davis, Sam Fuhlendorf, Erin Sauer, Sarah DuRant
 # *primary contact
